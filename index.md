@@ -20,8 +20,7 @@ help my friends run thier ~~gambling discord~~
 [small business](docs/BetAssistant): 
 
 A snippet of code from that 
-project looks  
-like this:
+project looks like this:
 
 ```
 // NFL OFFSEASON
