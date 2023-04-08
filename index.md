@@ -6,7 +6,7 @@ Hello, my name is Aaron Kann.  I am a second-year
 Math-CS major at UCSD.  This is my user profile.  
 
 
-## Projects
+## Me, as a programmer
 
 As a coder, I am someone who usually jumps at the 
 idea of creating a project, oftentimes before doing the needed planning.  
@@ -19,7 +19,8 @@ on to
 help my friends run thier ~~gambling discord~~ 
 [small business](docs/BetAssistant): 
 
-A snippet of code from that project looks  
+A snippet of code from that 
+project looks  
 like this:
 
 ```
@@ -34,7 +35,16 @@ My career goals include
 - [ ] pass CSE 110
 - [ ] be good at what I do
 - [ ] work on something impactful to others
-- [ ] /(optional) make bank
+- [ ] \(optional) make bank
+
+
+Coding languages I know, ranked:
+1. Python
+2. C++
+3. JavaScript
+4. Java
+5. C
+6. Assembly
 
 
 ## Personal Info
