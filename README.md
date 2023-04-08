@@ -1,2 +1,2 @@
 # pages-project
-CSE110 Lab 1
+https://akann0.github.io/pages-project/index.html#personal-info
